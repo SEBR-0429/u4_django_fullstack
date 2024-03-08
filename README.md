@@ -25,4 +25,4 @@ You will need :
 - At least 1 additional route of Create, Update, or Delete for at least 1 of your models
 
 
-We will be presenting our projects Thursday 4/6 11AM EST
+We will be presenting our projects Thursday 4/28 10AM EST
