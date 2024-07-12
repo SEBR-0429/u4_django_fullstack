@@ -1,4 +1,4 @@
-### SEBR 0116
+### SEBR 0429
 
 # Django Full Stack Build
 
@@ -25,4 +25,4 @@ You will need :
 - At least 1 additional route of Create, Update, or Delete for at least 1 of your models
 
 
-We will be presenting our projects Thursday 4/28 2PM EST
+We will be presenting our projects Friday 7/19 2PM EST
