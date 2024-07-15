@@ -1,6 +1,6 @@
 ### SEBR 0429
 
-# Django Full Stack Build
+# Django Full Stack Build - Tick-iT!
 
 ![](https://media.istockphoto.com/id/1461816749/photo/a-crowd-of-people-with-raised-arms-during-a-music-concert-with-an-amazing-light-show-black.jpg?s=612x612&w=0&k=20&c=-hdWCLDP5AI9A3mjq3JPMPKhXxJ2P1iItPDFktQHxX8=)
 
