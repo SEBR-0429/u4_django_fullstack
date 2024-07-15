@@ -28,3 +28,14 @@ You will need :
 
 
 We will be presenting our projects Friday 7/19 2PM EST
+
+
+## Additional Thoughts
+
+- This may be your last chance to practice building something this complex up in a collaborative team before beginning your Capstone Project, and then entering the field in a professional way! Use this as an opportunity to work on what you feel weakest in, as well as taking the time to practice your preparation skills like ERD's, Wireframes, Pseudocoding, and Component Heirarchy Diagrams.
+
+- One full and complete Migration will always be easier than running 5-10 migrations to make changes as you move through the week. Take the time to plan your data structures out early so that you can go in strong with your models and relations!
+
+- Do Not attempt User Authentication unless you feel comfortable with the materials in Front and Back End, can explain what you are doing to your team, and have already met MVP on both Front and Back Ends
+
+
