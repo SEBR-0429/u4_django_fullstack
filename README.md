@@ -22,12 +22,12 @@ You will need :
 
 - A newly created Github Repo for Front and Back Ends
 - At least 4 Back end paths (Index and Show of Venues and Events at each venue)
-- A functioning SPA built with React, or with Django Views
+- A functioning SPA built with React
 - A front-end Router that has a landing page with each Venue, with clickable links to see the individal shows belonging to each
 - Create, Update, or Delete routes for at least 1 of your models across front and back ends
 
 
-We will be presenting our projects Friday 7/19 2PM EST
+We will be presenting our projects Friday 7/19 2:30PM EST
 
 
 ## Additional Thoughts
